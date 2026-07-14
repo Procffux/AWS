@@ -30,12 +30,3 @@ Trong thá»i gian thá»±c táº­p, em Ä‘Ã£ tham gia cÃ¡c sá»± ki
 
 ---
 
-### [Event 3](4.3-Event3/)
-&emsp;**TÃªn sá»± kiá»‡n:** Cloud Architect Final & Technical Sharing
-
-&emsp;**Thá»i gian:** 09:00 ngÃ y 11/07/2026
-
-&emsp;**Äá»‹a Ä‘iá»ƒm:** Táº§ng 26, tÃ²a nhÃ  Bitexco, sá»‘ 02 Ä‘Æ°á»ng Háº£i Triá»u, phÆ°á»ng SÃ i GÃ²n, thÃ nh phá»‘ Há»“ ChÃ­ Minh
-
-&emsp;**Vai trÃ²:** NgÆ°á»i tham dá»±
-
