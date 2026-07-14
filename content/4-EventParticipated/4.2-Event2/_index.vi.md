@@ -8,46 +8,47 @@ pre: " <b> 4.2. </b> "
 
 # Event 2: AWS Study Group Meetup 06/06/2026
 
-### ThÃ´ng tin sá»± kiá»‡n
+### Thông tin sự kiện
 
-| Ná»™i dung | ThÃ´ng tin |
+| Nội dung | Thông tin |
 |---|---|
-| **TÃªn sá»± kiá»‡n** | AWS Study Group Meetup 06/06/2026 |
-| **Thá»i gian** | 09:00, ngÃ y 06/06/2026 |
-| **Äá»‹a Ä‘iá»ƒm** | Táº§ng 26, tÃ²a nhÃ  Bitexco, sá»‘ 02 Ä‘Æ°á»ng Háº£i Triá»u, phÆ°á»ng SÃ i GÃ²n, thÃ nh phá»‘ Há»“ ChÃ­ Minh |
-| **Vai trÃ²** | NgÆ°á»i tham dá»± |
+| **Tên sự kiện** | AWS Study Group Meetup 06/06/2026 |
+| **Thời gian** | 09:00, ngày 06/06/2026 |
+| **Địa điểm** | Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh |
+| **Vai trò** | Người tham dự |
 
-### Ná»™i dung trÃ¬nh bÃ y cá»§a cÃ¡c speaker
+### Nội dung trình bày của các speaker
 
-#### 1. Báº£o Huá»³nh - Docker: A containerization technology
+#### 1. Bảo Huỳnh - Docker: A containerization technology
 
-Pháº§n trÃ¬nh bÃ y giÃºp em hiá»ƒu Docker lÃ  cÃ´ng nghá»‡ Ä‘Ã³ng gÃ³i á»©ng dá»¥ng cÃ¹ng mÃ´i trÆ°á»ng cháº¡y, nhá» Ä‘Ã³ á»©ng dá»¥ng cÃ³ thá»ƒ hoáº¡t Ä‘á»™ng nháº¥t quÃ¡n hÆ¡n giá»¯a mÃ¡y local, server vÃ  pipeline triá»ƒn khai.
+Phần trình bày giúp em hiểu Docker là công nghệ đóng gói ứng dụng cùng môi trường chạy, nhờ đó ứng dụng có thể hoạt động nhất quán hơn giữa máy local, server và pipeline triển khai.
 
-#### 2. LÃª HoÃ ng Gia Äáº¡i - Combining AWS WAF with Machine Learning for Cyber Attack Detection
+#### 2. Lê Hoàng Gia Đại - Combining AWS WAF with Machine Learning for Cyber Attack Detection
 
-Speaker chia sáº» cÃ¡ch káº¿t há»£p AWS WAF vá»›i Machine Learning Ä‘á»ƒ phÃ¡t hiá»‡n lÆ°u lÆ°á»£ng báº¥t thÆ°á»ng vÃ  há»— trá»£ báº£o vá»‡ á»©ng dá»¥ng web. Ná»™i dung giÃºp em hiá»ƒu báº£o máº­t cloud cÃ³ thá»ƒ Ä‘Æ°á»£c tÄƒng cÆ°á»ng báº±ng viá»‡c phÃ¢n tÃ­ch dá»¯ liá»‡u.
+Speaker chia sẻ cách kết hợp AWS WAF với Machine Learning để phát hiện lưu lượng bất thường và hỗ trợ bảo vệ ứng dụng web. Nội dung giúp em hiểu bảo mật cloud có thể được tăng cường bằng việc phân tích dữ liệu.
 
-#### 3. Nguyá»…n Quá»‘c Báº£o - Multiplayer in the Cloud: Connecting Godot Clients with AWS WebSockets
+#### 3. Nguyễn Quốc Bảo - Multiplayer in the Cloud: Connecting Godot Clients with AWS WebSockets
 
-BÃ i chia sáº» trÃ¬nh bÃ y cÃ¡ch káº¿t ná»‘i game client Godot vá»›i backend cloud thÃ´ng qua WebSocket. Qua Ä‘Ã³, em hÃ¬nh dung rÃµ hÆ¡n vá» á»©ng dá»¥ng realtime vÃ  yÃªu cáº§u Ä‘á»™ trá»… tháº¥p khi thiáº¿t káº¿ há»‡ thá»‘ng.
+Bài chia sẻ trình bày cách kết nối game client Godot với backend cloud thông qua WebSocket. Qua đó, em hình dung rõ hơn về ứng dụng realtime và yêu cầu độ trễ thấp khi thiết kế hệ thống.
 
-#### 4. TrÆ°á»ng - Technical sharing session
+#### 4. Trường - Technical sharing session
 
-Pháº§n chia sáº» giÃºp em quan sÃ¡t cÃ¡ch trÃ¬nh bÃ y má»™t chá»§ Ä‘á» ká»¹ thuáº­t theo hÆ°á»›ng rÃµ rÃ ng, cÃ³ bá»‘i cáº£nh vÃ  cÃ³ vÃ­ dá»¥ liÃªn há»‡ thá»±c táº¿. ÄÃ¢y lÃ  kinh nghiá»‡m há»¯u Ã­ch khi em viáº¿t bÃ¡o cÃ¡o vÃ  thuyáº¿t trÃ¬nh workshop.
+Phần chia sẻ giúp em quan sát cách trình bày một chủ đề kỹ thuật theo hướng rõ ràng, có bối cảnh và có ví dụ liên hệ thực tế. Đây là kinh nghiệm hữu ích khi em viết báo cáo và thuyết trình workshop.
 
-#### 5. Viá»‡t PhÃ¡t - AWS Neptune for Building a Graph Knowledge Base for GraphRAG
+#### 5. Việt Phát - AWS Neptune for Building a Graph Knowledge Base for GraphRAG
 
-Speaker giá»›i thiá»‡u Amazon Neptune vÃ  hÆ°á»›ng xÃ¢y dá»±ng graph knowledge base phá»¥c vá»¥ GraphRAG. Ná»™i dung giÃºp em biáº¿t thÃªm vá» cÆ¡ sá»Ÿ dá»¯ liá»‡u Ä‘á»“ thá»‹ vÃ  cÃ¡ch biá»ƒu diá»…n quan há»‡ giá»¯a cÃ¡c thá»±c thá»ƒ trong bÃ i toÃ¡n AI.
+Speaker giới thiệu Amazon Neptune và hướng xây dựng graph knowledge base phục vụ GraphRAG. Nội dung giúp em biết thêm về cơ sở dữ liệu đồ thị và cách biểu diễn quan hệ giữa các thực thể trong bài toán AI.
 
-#### 6. Vinh Tráº§n - Tá»« IT Helpdesk lÃªn Senior Sysadmin
+#### 6. Vinh Trần - Từ IT Helpdesk lên Senior Sysadmin
 
-Pháº§n chia sáº» nghá» nghiá»‡p nháº¥n máº¡nh quÃ¡ trÃ¬nh tá»± há»c, tÃ­ch lÅ©y kinh nghiá»‡m thá»±c táº¿ vÃ  xÃ¢y dá»±ng ná»n táº£ng há»‡ thá»‘ng. Em hiá»ƒu thÃªm ráº±ng phÃ¡t triá»ƒn chuyÃªn mÃ´n cáº§n cÃ³ lá»™ trÃ¬nh, ghi chÃ©p vÃ  luyá»‡n táº­p liÃªn tá»¥c.
+Phần chia sẻ nghề nghiệp nhấn mạnh quá trình tự học, tích lũy kinh nghiệm thực tế và xây dựng nền tảng hệ thống. Em hiểu thêm rằng phát triển chuyên môn cần có lộ trình, ghi chép và luyện tập liên tục.
 
-### Káº¿t quáº£ Ä‘áº¡t Ä‘Æ°á»£c
+### Kết quả đạt được
 
-Event 2 giÃºp em má»Ÿ rá»™ng kiáº¿n thá»©c vá» Docker, báº£o máº­t á»©ng dá»¥ng web, WebSocket, GraphRAG vÃ  Ä‘á»‹nh hÆ°á»›ng nghá» nghiá»‡p trong máº£ng há»‡ thá»‘ng. Em cÅ©ng há»c Ä‘Æ°á»£c cÃ¡ch ghi chÃº cÃ¡c Ã½ chÃ­nh vÃ  tá»•ng há»£p ná»™i dung ká»¹ thuáº­t sau má»—i buá»•i chia sáº».
+Event 2 giúp em mở rộng kiến thức về Docker, bảo mật ứng dụng web, WebSocket, GraphRAG và định hướng nghề nghiệp trong mảng hệ thống. Em cũng học được cách ghi chú các ý chính và tổng hợp nội dung kỹ thuật sau mỗi buổi chia sẻ.
 
-### Má»™t sá»‘ hÃ¬nh áº£nh minh chá»©ng tham gia sá»± kiá»‡n
+### Một số hình ảnh minh chứng tham gia sự kiện
 
 <p class="workshop-img"><img src="/AWS/images/4-EventParticipated/4.2-Event2/event2-proof-01.jpg" alt="Event evidence image"></p>
+
 

@@ -8,50 +8,50 @@ pre: " <b> 4.1. </b> "
 
 # Event 1: Event Meet Up
 
-### ThÃ´ng tin sá»± kiá»‡n
+### Thông tin sự kiện
 
-| Ná»™i dung | ThÃ´ng tin |
+| Nội dung | Thông tin |
 |---|---|
-| **TÃªn sá»± kiá»‡n** | Event Meet Up |
-| **Thá»i gian** | 09:00, ngÃ y 30/05/2026 |
-| **Äá»‹a Ä‘iá»ƒm** | Táº§ng 26, tÃ²a nhÃ  Bitexco, sá»‘ 02 Ä‘Æ°á»ng Háº£i Triá»u, phÆ°á»ng SÃ i GÃ²n, thÃ nh phá»‘ Há»“ ChÃ­ Minh |
-| **Vai trÃ²** | NgÆ°á»i tham dá»± |
+| **Tên sự kiện** | Event Meet Up |
+| **Thời gian** | 09:00, ngày 30/05/2026 |
+| **Địa điểm** | Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh |
+| **Vai trò** | Người tham dự |
 
-### Má»¥c Ä‘Ã­ch sá»± kiá»‡n
+### Mục đích sự kiện
 
-Buá»•i Meet Up giÃºp em cÃ³ cÆ¡ há»™i gáº·p gá»¡ cá»™ng Ä‘á»“ng FCAJ, láº¯ng nghe cÃ¡c chia sáº» thá»±c táº¿ vÃ  hiá»ƒu rÃµ hÆ¡n cÃ¡ch má»—i speaker tiáº¿p cáº­n má»™t chá»§ Ä‘á» cÃ´ng nghá»‡. Ná»™i dung sá»± kiá»‡n khÃ´ng chá»‰ xoay quanh AWS mÃ  cÃ²n má»Ÿ rá»™ng sang ká»¹ nÄƒng há»c táº­p, hackathon, DevOps, AI vÃ  tÆ° duy phÃ¡t triá»ƒn cÃ¡ nhÃ¢n.
+Buổi Meet Up giúp em có cơ hội gặp gỡ cộng đồng FCAJ, lắng nghe các chia sẻ thực tế và hiểu rõ hơn cách mỗi speaker tiếp cận một chủ đề công nghệ. Nội dung sự kiện không chỉ xoay quanh AWS mà còn mở rộng sang kỹ năng học tập, hackathon, DevOps, AI và tư duy phát triển cá nhân.
 
-### Ná»™i dung chÃ­nh
+### Nội dung chính
 
-#### 1. Huá»³nh ThÃ¡i Linh - What Beginners Worry About in AWS
+#### 1. Huỳnh Thái Linh - What Beginners Worry About in AWS
 
-Pháº§n trÃ¬nh bÃ y nháº¥n máº¡nh cÃ¡c váº¥n Ä‘á» ngÆ°á»i má»›i há»c AWS thÆ°á»ng lo láº¯ng nhÆ° chi phÃ­, Billing, Free Tier, cleanup tÃ i nguyÃªn vÃ  cÃ¡ch há»c cloud an toÃ n. Ná»™i dung giÃºp em cáº©n tháº­n hÆ¡n khi thá»±c hÃ nh trÃªn tÃ i khoáº£n AWS.
+Phần trình bày nhấn mạnh các vấn đề người mới học AWS thường lo lắng như chi phí, Billing, Free Tier, cleanup tài nguyên và cách học cloud an toàn. Nội dung giúp em cẩn thận hơn khi thực hành trên tài khoản AWS.
 
 #### 2. The Ballers - Hackathon Experience
 
-NhÃ³m The Ballers chia sáº» kinh nghiá»‡m tham gia hackathon, cÃ¡ch xÃ¢y dá»±ng Ã½ tÆ°á»Ÿng, phÃ¢n chia nhiá»‡m vá»¥ vÃ  xá»­ lÃ½ Ã¡p lá»±c trong thá»i gian ngáº¯n. Qua pháº§n nÃ y, em hiá»ƒu rÃµ hÆ¡n vai trÃ² cá»§a teamwork vÃ  quáº£n lÃ½ tiáº¿n Ä‘á»™.
+Nhóm The Ballers chia sẻ kinh nghiệm tham gia hackathon, cách xây dựng ý tưởng, phân chia nhiệm vụ và xử lý áp lực trong thời gian ngắn. Qua phần này, em hiểu rõ hơn vai trò của teamwork và quản lý tiến độ.
 
-#### 3. Nguyá»…n Thá»‹ Quá»³nh NhÆ° - Why We Always Need Confidence
+#### 3. Nguyễn Thị Quỳnh Như - Why We Always Need Confidence
 
-BÃ i chia sáº» giÃºp em nhÃ¬n láº¡i vai trÃ² cá»§a sá»± tá»± tin trong há»c táº­p vÃ  giao tiáº¿p. Khi há»c cÃ´ng nghá»‡ má»›i, sá»± tá»± tin giÃºp em dÃ¡m há»i, dÃ¡m thá»­ vÃ  dÃ¡m trÃ¬nh bÃ y káº¿t quáº£ trÆ°á»›c táº­p thá»ƒ.
+Bài chia sẻ giúp em nhìn lại vai trò của sự tự tin trong học tập và giao tiếp. Khi học công nghệ mới, sự tự tin giúp em dám hỏi, dám thử và dám trình bày kết quả trước tập thể.
 
-#### 4. Tráº§n Minh QuÃ¢n - The Hidden Iceberg of a Project: DevOps Before Disaster
+#### 4. Trần Minh Quân - The Hidden Iceberg of a Project: DevOps Before Disaster
 
-Speaker phÃ¢n tÃ­ch nhá»¯ng cÃ´ng viá»‡c phÃ­a sau má»™t dá»± Ã¡n nhÆ° triá»ƒn khai, cáº¥u hÃ¬nh mÃ´i trÆ°á»ng, kiá»ƒm tra log, monitoring vÃ  chuáº©n bá»‹ phÆ°Æ¡ng Ã¡n xá»­ lÃ½ sá»± cá»‘. ÄÃ¢y lÃ  pháº§n giÃºp em hiá»ƒu DevOps lÃ  yáº¿u tá»‘ quan trá»ng Ä‘á»ƒ há»‡ thá»‘ng váº­n hÃ nh á»•n Ä‘á»‹nh.
+Speaker phân tích những công việc phía sau một dự án như triển khai, cấu hình môi trường, kiểm tra log, monitoring và chuẩn bị phương án xử lý sự cố. Đây là phần giúp em hiểu DevOps là yếu tố quan trọng để hệ thống vận hành ổn định.
 
-#### 5. Kháº¯c Uy - A Familiar Enemy
+#### 5. Khắc Uy - A Familiar Enemy
 
-Ná»™i dung nÃ³i vá» sá»± trÃ¬ hoÃ£n vÃ  cÃ¡ch vÆ°á»£t qua nÃ³ trong há»c táº­p, cÃ´ng viá»‡c. Em rÃºt ra ráº±ng cáº§n chia nhá» nhiá»‡m vá»¥, Ä‘áº·t má»¥c tiÃªu rÃµ rÃ ng vÃ  báº¯t Ä‘áº§u sá»›m Ä‘á»ƒ trÃ¡nh bá»‹ Ä‘á»™ng vÃ o cuá»‘i ká»³.
+Nội dung nói về sự trì hoãn và cách vượt qua nó trong học tập, công việc. Em rút ra rằng cần chia nhỏ nhiệm vụ, đặt mục tiêu rõ ràng và bắt đầu sớm để tránh bị động vào cuối kỳ.
 
-#### 6. Tráº§n Há»¯u NghÄ©a - Website á»©ng dá»¥ng AI
+#### 6. Trần Hữu Nghĩa - Website ứng dụng AI
 
-Pháº§n chia sáº» giá»›i thiá»‡u má»™t website tÃ­ch há»£p AI Ä‘á»ƒ cÃ¡ nhÃ¢n hÃ³a tráº£i nghiá»‡m ngÆ°á»i dÃ¹ng. Ná»™i dung nÃ y giÃºp em tháº¥y AI cÃ³ thá»ƒ Ä‘Æ°á»£c Ã¡p dá»¥ng vÃ o cÃ¡c sáº£n pháº©m web theo nhiá»u hÆ°á»›ng gáº§n gÅ©i vÃ  sÃ¡ng táº¡o.
+Phần chia sẻ giới thiệu một website tích hợp AI để cá nhân hóa trải nghiệm người dùng. Nội dung này giúp em thấy AI có thể được áp dụng vào các sản phẩm web theo nhiều hướng gần gũi và sáng tạo.
 
-### Káº¿t quáº£ Ä‘áº¡t Ä‘Æ°á»£c
+### Kết quả đạt được
 
-Sau sá»± kiá»‡n, em cÃ³ thÃªm gÃ³c nhÃ¬n vá» cÃ¡ch há»c AWS an toÃ n, ká»¹ nÄƒng lÃ m viá»‡c nhÃ³m, tÆ° duy DevOps vÃ  cÃ¡ch trÃ¬nh bÃ y má»™t Ã½ tÆ°á»Ÿng cÃ´ng nghá»‡. ÄÃ¢y lÃ  ná»n táº£ng há»¯u Ã­ch Ä‘á»ƒ em tiáº¿p tá»¥c hoÃ n thiá»‡n worklog vÃ  workshop triá»ƒn khai há»‡ thá»‘ng trÃªn AWS.
+Sau sự kiện, em có thêm góc nhìn về cách học AWS an toàn, kỹ năng làm việc nhóm, tư duy DevOps và cách trình bày một ý tưởng công nghệ. Đây là nền tảng hữu ích để em tiếp tục hoàn thiện worklog và workshop triển khai hệ thống trên AWS.
 
-### Má»™t sá»‘ hÃ¬nh áº£nh minh chá»©ng tham gia sá»± kiá»‡n
+### Một số hình ảnh minh chứng tham gia sự kiện
 
 <p class="workshop-img"><img src="/AWS/images/4-EventParticipated/4.1-Event1/event1-01.jpg" alt="Event evidence image"></p>
 <p class="workshop-img"><img src="/AWS/images/4-EventParticipated/4.1-Event1/event1-02.jpg" alt="Event evidence image"></p>
@@ -59,4 +59,5 @@ Sau sá»± kiá»‡n, em cÃ³ thÃªm gÃ³c nhÃ¬n vá» cÃ¡ch há»c
 <p class="workshop-img"><img src="/AWS/images/4-EventParticipated/4.1-Event1/event1-04.jpg" alt="Event evidence image"></p>
 <p class="workshop-img"><img src="/AWS/images/4-EventParticipated/4.1-Event1/event1-05.jpg" alt="Event evidence image"></p>
 <p class="workshop-img"><img src="/AWS/images/4-EventParticipated/4.1-Event1/event1-06.jpg" alt="Event evidence image"></p>
+
 
