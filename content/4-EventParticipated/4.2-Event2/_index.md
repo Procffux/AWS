@@ -1,4 +1,4 @@
----
+﻿---
 title: "Event 2"
 date: 2026-07-01
 weight: 2
@@ -19,27 +19,27 @@ pre: " <b> 4.2. </b> "
 
 ### Speaker Sessions
 
-#### 1. Bảo Huỳnh - Docker: A containerization technology
+#### 1. Báº£o Huá»³nh - Docker: A containerization technology
 
 This session helped me understand Docker as a technology for packaging an application with its runtime environment, making deployment more consistent across local machines, servers, and CI/CD pipelines.
 
-#### 2. Lê Hoàng Gia Đại - Combining AWS WAF with Machine Learning for Cyber Attack Detection
+#### 2. LÃª HoÃ ng Gia Äáº¡i - Combining AWS WAF with Machine Learning for Cyber Attack Detection
 
 The speaker shared how AWS WAF can be combined with Machine Learning to detect abnormal traffic and improve web application protection. This helped me understand how cloud security can be enhanced through data analysis.
 
-#### 3. Nguyễn Quốc Bảo - Multiplayer in the Cloud: Connecting Godot Clients with AWS WebSockets
+#### 3. Nguyá»…n Quá»‘c Báº£o - Multiplayer in the Cloud: Connecting Godot Clients with AWS WebSockets
 
 This talk explained how to connect Godot game clients to a cloud backend through WebSocket. It gave me a clearer view of realtime applications and low-latency requirements in system design.
 
-#### 4. Trường - Technical sharing session
+#### 4. TrÆ°á»ng - Technical sharing session
 
 This session allowed me to observe how a technical topic can be presented with context, structure, and practical examples. It was useful for improving my own report writing and workshop presentation skills.
 
-#### 5. Việt Phát - AWS Neptune for Building a Graph Knowledge Base for GraphRAG
+#### 5. Viá»‡t PhÃ¡t - AWS Neptune for Building a Graph Knowledge Base for GraphRAG
 
 The speaker introduced Amazon Neptune and the idea of building a graph knowledge base for GraphRAG. I learned more about graph databases and how relationships between entities can support AI use cases.
 
-#### 6. Vinh Trần - From IT Helpdesk to Senior Sysadmin
+#### 6. Vinh Tráº§n - From IT Helpdesk to Senior Sysadmin
 
 This career sharing session emphasized self-learning, practical experience, and system fundamentals. I learned that professional growth requires a clear roadmap, documentation habits, and continuous practice.
 
@@ -49,4 +49,5 @@ Event 2 expanded my knowledge of Docker, web application security, WebSocket, Gr
 
 ### Evidence Images
 
-<p class="workshop-img"><img src="/aws/images/4-EventParticipated/4.2-Event2/event2-proof-01.jpg" alt="Event evidence image"></p>
+<p class="workshop-img"><img src="/AWS/images/4-EventParticipated/4.2-Event2/event2-proof-01.jpg" alt="Event evidence image"></p>
+
